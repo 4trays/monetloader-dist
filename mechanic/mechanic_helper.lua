@@ -1,5 +1,5 @@
-script_author("4trays SecureCode")
-script_version("1.0 testi")
+script_author("Sinchan x 4trays SecureCode")
+script_version("2.0 testi")
 script_name("Mechanic Helper")
 
 require('lib.moonloader')
@@ -153,7 +153,7 @@ json.decode = jsonDecode
 json.encode = jsonEncode
 
 -- AUTO UPDATE
-local SCRIPT_VERSION = "1.0 testi"
+local SCRIPT_VERSION = "2.0 testi"
 local UPDATE_CHECKED = false
 local UPDATE_URL = "https://raw.githubusercontent.com/4traysTeam/monetloader-dist/main/mechanic/version.json"
 
