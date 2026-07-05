@@ -153,7 +153,7 @@ json.decode = jsonDecode
 json.encode = jsonEncode
 
 -- AUTO UPDATE
-local SCRIPT_VERSION = "3.4-july"
+local SCRIPT_VERSION = "3.4-mei"
 local UPDATE_CHECKED = false
 local UPDATE_URL = "https://raw.githubusercontent.com/4traysTeam/monetloader-dist/main/mechanic/version.json"
 
